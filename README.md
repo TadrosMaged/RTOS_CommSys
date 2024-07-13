@@ -5,10 +5,6 @@ This project demonstrates the use of FreeRTOS for task and queue management in a
 ## Table of Contents
 - [Project Structure](#project-structure)
 - [Features](#features)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Tasks and Functions](#tasks-and-functions)
-- [Output](#output)
 - [License](#license)
 
 ## Project Structure
